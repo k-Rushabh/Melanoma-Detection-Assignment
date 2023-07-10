@@ -69,11 +69,11 @@ Github
 Google
 
 ## Contact
-Contact
-Created by
-            @k-Rushabh
-            @HarikaGuntur
-           
+## Contact
+Created by 
+- [k-Rushabh](https://github.com/k-Rushabh)  
+- [G-Harika](https://github.com/G-Harika) 
+
 Feel free to contact us
 
 <!-- Optional -->
