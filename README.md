@@ -72,7 +72,7 @@ Google
 ## Contact
 Created by 
 - [k-Rushabh](https://github.com/k-Rushabh)  
-- [G-Harika](https://github.com/HarikaGuntur) 
+- [HarikaGuntar](https://github.com/HarikaGuntur) 
 
 Feel free to contact us
 
